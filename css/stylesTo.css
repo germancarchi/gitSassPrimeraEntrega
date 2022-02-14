@@ -1,0 +1,35 @@
+/*Partials*/
+.header1 {
+  background-color: beige; }
+  .header1 a img {
+    border-radius: 2px; }
+  .header1 ul li a {
+    font-style: italic; }
+    .header1 ul li a:hover {
+      color: brown; }
+
+/* Variable: $mainColor*/
+.header1 {
+  background-color: beige; }
+  .header1 a img {
+    border-radius: 2px; }
+  .header1 ul li a {
+    font-style: italic; }
+    .header1 ul li a:hover {
+      color: brown; }
+
+.title1 {
+  color: darkslategray; }
+
+.body1 img {
+  border-radius: 15px; }
+
+.body1 div section {
+  background-color: #98d3c4;
+  border-radius: 15px; }
+  .body1 div section li {
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+    font-style: oblique;
+    padding: 15px; }

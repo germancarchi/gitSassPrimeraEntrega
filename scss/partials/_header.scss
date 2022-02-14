@@ -1,0 +1,19 @@
+.header1 {
+    background-color: beige;
+    a {
+        img {
+            border-radius: 2px;
+        }               
+    }
+    ul {
+        li {
+            a{
+                font-style: italic; 
+                &:hover {
+                    color: brown;
+                }
+            }
+           
+        }
+    }
+}
